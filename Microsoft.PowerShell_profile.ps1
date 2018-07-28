@@ -9,4 +9,4 @@ function createTemp {
     New-Item -ItemType Directory -Path C:\ -Name "Temp" -Force
 }
 
-createTemp
+#createTemp
